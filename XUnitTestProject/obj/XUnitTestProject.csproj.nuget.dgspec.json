@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\XUnitTestProject\\XUnitTestProject.csproj": {}
+    "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\XUnitTestProject\\XUnitTestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\InCalculatorExample\\InCalculatorExample.csproj": {
+    "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\IntCalculatorExampleProject\\IntCalculatorExampleProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\InCalculatorExample\\InCalculatorExample.csproj",
-        "projectName": "InCalculatorExample",
-        "projectPath": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\InCalculatorExample\\InCalculatorExample.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\InCalculatorExample\\obj\\",
+        "projectUniqueName": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\IntCalculatorExampleProject\\IntCalculatorExampleProject.csproj",
+        "projectName": "IntCalculatorExampleProject",
+        "projectPath": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\IntCalculatorExampleProject\\IntCalculatorExampleProject.csproj",
+        "packagesPath": "C:\\Users\\Nickl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\IntCalculatorExampleProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nickl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,32 +63,30 @@
         }
       }
     },
-    "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\XUnitTestProject\\XUnitTestProject.csproj": {
+    "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\XUnitTestProject\\XUnitTestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\XUnitTestProject\\XUnitTestProject.csproj",
+        "projectUniqueName": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\XUnitTestProject\\XUnitTestProject.csproj",
         "projectName": "XUnitTestProject",
-        "projectPath": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\XUnitTestProject\\XUnitTestProject.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\XUnitTestProject\\obj\\",
+        "projectPath": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\XUnitTestProject\\XUnitTestProject.csproj",
+        "packagesPath": "C:\\Users\\Nickl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\XUnitTestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Nickl\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\InCalculatorExample\\InCalculatorExample.csproj": {
-                "projectPath": "C:\\Users\\mosta\\Documents\\C projekts\\SkoleProjekts\\Calculator\\Calculator\\InCalculatorExample\\InCalculatorExample.csproj"
+              "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\IntCalculatorExampleProject\\IntCalculatorExampleProject.csproj": {
+                "projectPath": "C:\\Users\\Nickl\\RiderProjects\\ConsoleApp1\\IntCalculatorExampleProject\\IntCalculatorExampleProject.csproj"
               }
             }
           }

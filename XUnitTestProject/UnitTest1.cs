@@ -4,13 +4,17 @@ namespace TestProject1;
 
 public class UnitTest1
 {
-    [Fact]
-    public void AddValidValue()
+    [Theory]
+    [InlineData(0, 1, 1)]
+    [InlineData(0, -1, -1)]
+    [InlineData(0, int.MaxValue, int.MaxValue)]
+    [InlineData(int.MaxValue - 3, -3, int.MaxValue)]
+    [InlineData(0, int.MinValue, int.MinValue)]
+    [InlineData(int.MinValue + 3, -3, int.MinValue)]
+    public void AddValidValue(int initialValue, int addValue, int exspectedValue)
     {
         //Arange
         IntCalculator cal = new IntCalculator();
-        int initialValue = 10;
-        int addValue = 4;
         cal.Add(initialValue);
         
         //Act
@@ -20,7 +24,7 @@ public class UnitTest1
         Assert.Equal(initialValue + addValue, cal.Result);
     }
 
-    
+    [Fact]
     public void AddInvalidValueExpectArugumentException()
     {
         //Arange
