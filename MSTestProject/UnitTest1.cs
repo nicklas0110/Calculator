@@ -1,6 +1,6 @@
 using IntCalculatorExample;
 
-namespace MSTestProject;
+namespace TestProject2;
 
 public class UnitTest1
 {
