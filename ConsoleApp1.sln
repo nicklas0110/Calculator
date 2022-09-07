@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{69ADF688-8F58-4A8D-BE88-CACDC06915B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InCalculatorExample", "InCalculatorExample\InCalculatorExample.csproj", "{69ADF688-8F58-4A8D-BE88-CACDC06915B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{FC8BFB16-65DF-4ED9-889A-C9F514E1CE59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{FC8BFB16-65DF-4ED9-889A-C9F514E1CE59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
